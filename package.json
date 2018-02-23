@@ -1,5 +1,5 @@
 {
-  "name": "s3",
+  "name": "@pch-ng/s3",
   "version": "4.4.0",
   "description": "high level amazon s3 client. upload and download files and directories",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewrk/node-s3-client"
+    "url": "https://github.com/property-connect/node-s3-client"
   },
   "keywords": [
     "amazon",
@@ -45,7 +45,7 @@
     "streamsink": "~1.2.0"
   },
   "bugs": {
-    "url": "https://github.com/andrewrk/node-s3-client/issues"
+    "url": "https://github.com/property-connect/node-s3-client/issues"
   },
   "directories": {
     "test": "test"
